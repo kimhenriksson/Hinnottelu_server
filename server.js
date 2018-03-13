@@ -337,4 +337,4 @@ app.get('/api/getHinta:rakoodi', (req,res) => {
   });
 })
 
-app.listen(3331, () => console.log('App listening on port 3331'))
+app.listen(8081, () => console.log('App listening on port 8081'))
