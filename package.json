@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kim Henriksson",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.180.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dynamodb-data-types": "^3.0.0",
+    "express": "^4.16.2"
+  }
+}
